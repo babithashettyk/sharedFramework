@@ -9,4 +9,6 @@ import Foundation
 public class Test{
     public func one(){
     }
+    public func two(){
+    }
 }
